@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule (\.(git|idea|svn)\/) [R=404,L]
